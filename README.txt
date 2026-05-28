@@ -2,7 +2,7 @@
 
 ## Title
 
-GCNDIADTI: Graph Convolutional Networks and Deep Interactive Attention Module for Drug-Target Interaction Prediction
+GCNDIADTI: Graph Convolutional Networks and Deep Interactive Attention module for Drug-Target Interaction Prediction
 
 ## Description
 
@@ -136,7 +136,5 @@ Song W, Xu L, Han C, Tian Z. 2024. Drug-target interaction predictions with mult
 
 Yamanishi Y, Araki M, Gutteridge A, Honda W, Kanehisa M. 2008. Prediction of drug-target interaction networks from the integration of chemical and genomic spaces. Bioinformatics 24:i232-i240. DOI: 10.1093/bioinformatics/btn162.
 
-## License and Contribution Guidelines
 
-No explicit license file was provided with the code package. If the code is deposited in a public repository, the authors should add an appropriate license statement. For contributions, contact the corresponding author.
 
